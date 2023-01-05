@@ -1,1 +1,1 @@
-Edit Excercise 6
+This change is made in master
